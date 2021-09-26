@@ -1,19 +1,18 @@
-<<<<<<< HEAD
+
 # Getting Started Apollo It Farm
-=======
+
+Apollo is one of the best running it farm.
+
+
 # Getting Started with Our Apollo It Farm
->>>>>>> 4922581dae46d58a2be027cd80b70f00524708d5
 
 This project was accopaniyed with [Create React App](https://github.com/facebook/create-react-app).
 
-<<<<<<< HEAD
-=======
 ## Our Available Advantage
->>>>>>> 4922581dae46d58a2be027cd80b70f00524708d5
 
 With our It farm, you can join with us:
 
-### `Cloud Services`
+* ### `Cloud Services`
 
 Ever wonder what your business would look like if you didn’t have to deal with technology? Or what if your work didn’t tie you solely to the office? Access your data anywhere, anytime with our Cloud Solutions.
 
@@ -21,13 +20,13 @@ Ever wonder what your business would look like if you didn’t have to deal with
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `Custom Development`
+* ### `Custom Development`
 Whether it’s a new or redesigned website, a custom server application or work on an existing project, VTG can handle your software development needs.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `Virtual CIO`
+* ### `Virtual CIO`
 Have a VTG Virtual CIO who is trained specifically on your business’s unique environment, without the burden of a full-time employee.
 
 
@@ -39,7 +38,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `Print Management`
+* ### `Print Management`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
