@@ -12,7 +12,7 @@ This project was accopaniyed with [Create React App](https://github.com/facebook
 
 With our It farm, you can join with us:
 
-<li> ###`Cloud Services`</li>
+* ###`Cloud Services`
 
 Ever wonder what your business would look like if you didn’t have to deal with technology? Or what if your work didn’t tie you solely to the office? Access your data anywhere, anytime with our Cloud Solutions.
 
@@ -26,7 +26,7 @@ Whether it’s a new or redesigned website, a custom server application or work 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `Virtual CIO`
+* ### `Virtual CIO`
 Have a VTG Virtual CIO who is trained specifically on your business’s unique environment, without the burden of a full-time employee.
 
 
@@ -38,7 +38,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `Print Management`
+*### `Print Management`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
