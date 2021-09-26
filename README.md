@@ -1,15 +1,14 @@
-<<<<<<< HEAD
+
 # Getting Started Apollo It Farm
-=======
+
+Apollo is one of the best running it farm.
+
+
 # Getting Started with Our Apollo It Farm
->>>>>>> 4922581dae46d58a2be027cd80b70f00524708d5
 
 This project was accopaniyed with [Create React App](https://github.com/facebook/create-react-app).
 
-<<<<<<< HEAD
-=======
 ## Our Available Advantage
->>>>>>> 4922581dae46d58a2be027cd80b70f00524708d5
 
 With our It farm, you can join with us:
 
