@@ -6,16 +6,17 @@ const CartInfo = (props) => {
     const {cart} = props;
 
     let total = 0;
-    let names = [ ];
+    let names = [];
     for(const person of cart){
         total = total + person.salary;
         names = [...names, person.name];
     }
     return (
-        <div>
-            <h3>Person Added: {props.cart.length}</h3>
-            <h4>Total salary: ${total}</h4>
-            <h4>Total salary: {names}</h4>
+        <div className= 'cart'>
+            <h3>Count cart</h3>
+            <p>Person Added: {props.cart.length}</p>
+            <p>Total salary: ${total}</p>
+            <p>Programmers: {names}</p>
         </div>
     );
 };

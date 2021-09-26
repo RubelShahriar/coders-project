@@ -3,10 +3,6 @@
     grid-template-columns: 3fr 1fr;
 }
 .person-container{
-    background-color: yellow;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-}
-.cart-container{
-    background-color: lime;
 }

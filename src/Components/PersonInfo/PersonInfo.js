@@ -10,7 +10,9 @@ const PersonInfo = (props) => {
     return (
         <div className= 'personinfo'>
             <div>
+            <div className= 'image'>
             <img src= {image} alt=" " />
+            </div>
             <h3>Name: {name}</h3>
             <p>Age: {age}</p>
             <p>Ocupassion: {occupassion}</p>
