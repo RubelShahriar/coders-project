@@ -1,0 +1,16 @@
+.personinfo{
+    margin: 10px;
+    background-color: lime;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+button{
+    padding: 10px 60px;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+}
