@@ -12,7 +12,7 @@ This project was accopaniyed with [Create React App](https://github.com/facebook
 
 With our It farm, you can join with us:
 
-### `Cloud Services`
+###<li> `Cloud Services`</li>
 
 Ever wonder what your business would look like if you didn’t have to deal with technology? Or what if your work didn’t tie you solely to the office? Access your data anywhere, anytime with our Cloud Solutions.
 
