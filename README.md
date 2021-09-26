@@ -20,7 +20,7 @@ Ever wonder what your business would look like if you didn’t have to deal with
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-⚫️ ### `Custom Development`
+⚫️### `Custom Development`
 Whether it’s a new or redesigned website, a custom server application or work on an existing project, VTG can handle your software development needs.
 
 Launches the test runner in the interactive watch mode.\
