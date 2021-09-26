@@ -1,10 +1,10 @@
 # Getting Started with Apollo It Farm
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was accopaniyed with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Our Available Advantage
 
-In the project directory, you can run:
+With our It farm, you can join with us:
 
 ### `Cloud Services`
 
