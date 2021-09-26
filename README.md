@@ -12,7 +12,7 @@ This project was accopaniyed with [Create React App](https://github.com/facebook
 
 With our It farm, you can join with us:
 
-###<li> `Cloud Services`</li>
+<li> ###`Cloud Services`</li>
 
 Ever wonder what your business would look like if you didn’t have to deal with technology? Or what if your work didn’t tie you solely to the office? Access your data anywhere, anytime with our Cloud Solutions.
 
@@ -20,7 +20,7 @@ Ever wonder what your business would look like if you didn’t have to deal with
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `Custom Development`
+⚫️ ### `Custom Development`
 Whether it’s a new or redesigned website, a custom server application or work on an existing project, VTG can handle your software development needs.
 
 Launches the test runner in the interactive watch mode.\
