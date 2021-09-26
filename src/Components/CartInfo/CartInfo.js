@@ -14,7 +14,7 @@ const CartInfo = (props) => {
     return (
         <div className= 'cart'>
             <h3>Count cart</h3>
-            <p>Person Added: {props.cart.length}</p>
+            <p>Person Added: {cart.length}</p>
             <p>Total salary: ${total}</p>
             <p>Programmers: {names}</p>
         </div>

@@ -6,7 +6,7 @@
         "age": 22,
         "image": "https://images.squarespace-cdn.com/content/v1/5521b031e4b06ebe90178744/1578614548659-32NA7MW5H6UT9PBHKCHF/YT_19_01.jpg",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2300
     },
     {
         "key": "102",
@@ -15,7 +15,7 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRHpuXlIDAwn2OfrCNSXYNWM926Evp-6Z5VQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2500
     },
     {
         "key": "103",
@@ -24,7 +24,7 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqrSGvAq_IdsSAfFBT1nspnOFZAVEIZoziQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2400
     },
     {
         "key": "104",
@@ -33,7 +33,7 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMGfNbU3oKDgb1Dr7edw-EuwFuTP_mIemaVw&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2600
     },
     {
         "key": "105",
@@ -42,7 +42,7 @@
         "age": 22,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBgrHQHXtRwKVNPuzOYJwp5tvu9hvv2m4wwA&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2200
     },
     {
         "key": "106",
@@ -51,7 +51,7 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJaoIeJQU_V9rL_ZII61whWyqSFbmMgTgwQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2500
     },
     {
         "key": "107",
@@ -60,7 +60,7 @@
         "age": 22,
         "image": "https://d5t4h5a9.rocketcdn.me/wp-content/uploads/2020/11/Professional-Headshot-Poses-Blog-Post.jpg",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2400
     },
     {
         "key": "108",
@@ -69,7 +69,7 @@
         "age": 21,
         "image": "https://headshots-inc.com/wp-content/uploads/2020/12/Blog-Images.jpg",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2100
     },
     {
         "key": "109",
@@ -78,7 +78,7 @@
         "age": 20,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk0dptDo0laY421idLF9pOGYQnhg0xvFgnHA&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2400
     },
     {
         "key": "110",
@@ -87,7 +87,7 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz7xkKmOxNZeatDKzjesmJG-s2clYi3gsncQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2300
     },
     {
         "key": "111",
@@ -96,7 +96,7 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ffDWZbCDjPulYLLExfeaY9gZhAbpjBMIiA&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2200
     },
     {
         "key": "112",
@@ -105,7 +105,7 @@
         "age": 23,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3D6CivZKyvgWnEvMONdctrC1fs4lVE6xaMQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2400
     },
     {
         "key": "113",
@@ -114,7 +114,7 @@
         "age": 20,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr2RcD2fiReC2iLFK2CFL0MXCJrWaD7pPf5Q&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2100
     },
     {
         "key": "114",
@@ -123,7 +123,7 @@
         "age": 22,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-7veMWuy-C9OGkq3GPUYUkiKwGVoXDgRGCQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2300
     },
     {
         "key": "115",
@@ -132,7 +132,7 @@
         "age": 23,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Z3Kda15NBCwlEOyRAKD_RlPuyy7PXN-R5Q&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2200
     },
     {
         "key": "116",
@@ -141,7 +141,7 @@
         "age": 2,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOsgCJkQLhQv9shmNyLgIBUlUscPqXSt-EQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2400
     },
     {
         "key": "118",
@@ -150,6 +150,6 @@
         "age": 21,
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPEAZg-ldRIW3nHgbJy0dRVDL_k9slPl-DQ&usqp=CAU",
         "country": "Bangladesh",
-        "salary": 250
+        "salary": 2300
     }
 ]

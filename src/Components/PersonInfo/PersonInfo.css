@@ -6,12 +6,12 @@
     border-radius: 6px;
 }
 .image{
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    /* width: 200px; */
+    height: 200px;
+    border-radius: 10px;
     overflow: hidden;
     text-align: center;
-    margin: 0 auto;
+    margin: 0 10px;
 }
 img{
     width: 100%;
